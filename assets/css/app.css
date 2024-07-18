@@ -11977,3 +11977,8 @@ html {
 }
 
 /* Padding below the footer and lighter body text */
+.navigation {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+}
